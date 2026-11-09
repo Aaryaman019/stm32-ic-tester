@@ -5,7 +5,7 @@ It drives every input vector of every gate, reads all pins back on the 12-bit AD
 returns a 0–100 electrical score plus a PASS / MARGINAL / FAIL / NO_IC verdict, both on an OLED and as JSON over USB serial.
 
 Built as the electrical half (80 %) of **IC VISION**, a counterfeit / faulty IC detection system. A PC dashboard combines this
-score with a camera-based visual score (20 %). The project **won the hackathon**.
+score with a camera-based visual score (20 %). The project placed **1st runner-up at Sensors Enclave 4.0** (BMSCE, Bangalore, 31 Oct – 1 Nov 2026).
 
 ![Architecture](docs/architecture.png)
 
